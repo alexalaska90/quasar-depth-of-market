@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1342,
+    "pair": "BTCUSDT",
+    "price": 27999.87,
+    "amount": 5,
+    "side": true
+  },
+  {
+    "id": 1343,
+    "pair": "BTCUSDT",
+    "price": 28001.49,
+    "amount": 2,
+    "side": false
+  }
+]
