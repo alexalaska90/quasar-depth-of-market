@@ -1,8 +1,9 @@
 # Depth of Market
 
-A project made with Quasar Framework and Pinia with using of WebSocket API
+A project made with Quasar Framework and Pinia with using of Web Socket Streams for Binance:
+https://github.com/binance/binance-spot-api-docs/blob/master/web-socket-streams.md
 
-## Instal Quasar
+## Install Quasar
 ```bash
 yarn global add @quasar/cli
 ```
